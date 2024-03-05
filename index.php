@@ -10,7 +10,7 @@
 <body>
     <h1>Calculator</h1>
 
-    <form action="calculator.php" method="POST">
+    <form action="result.php" method="POST">
         <input type="number" name="num1" placeholder="Enter a number">
         <select name="operator" id="" required>
             <option value="+">+</option>
